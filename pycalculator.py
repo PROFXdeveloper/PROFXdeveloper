@@ -4,7 +4,9 @@ print("B. Subtraction")
 print("C. Multiplication")
 print("D. Division")
 
-operation = input()
+print(" ")
+
+operation = input(" ")
 
 if operation == "A":
     a,b = input("Addition: ").split(" and ")
@@ -33,3 +35,6 @@ elif operation == "c":
 
 elif operation == "d":
     print("invalid operation")
+    
+elif operation != str:
+	print(" Error ")
