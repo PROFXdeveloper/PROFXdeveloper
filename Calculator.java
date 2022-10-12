@@ -1,37 +1,59 @@
-// how to create Simple calculator in Java
-
-// thats all bye 
 import java.util.*;
 
-public class Calculator{
+
+public class Calculator {
     public static void main(String[]args){
+
+
         Scanner scan = new Scanner(System.in);
+        String repeat;
+    do{
 
-        System.out.print("Enter num1: ");
-        int num1 = scan.nextInt();
-        System.out.print("Enter num2: ");
-        int num2 = scan.nextInt();
-        System.out.print("Select operation to perform(+ * - /) : ");
-        String operator = scan.next();
+    
+        System.out.println("Select operation to perform ");
 
+        String[] names = {"1. Add ","2. Subtraction ", "3. Mult." };
 
-        scan.close();
+        for(int i = 0; i< names.length; i++){
 
-        switch(operator){
+            System.out.println(names[i]);
 
-            case "+":
-            System.out.print(num1+num2);
-            break;
-            case "-":
-            System.out.print(num1-num2);
-            break;
-            case "*":
-            System.out.print(num1*num2);
-            break;
-            case "/":
-            System.out.print(num1/num2);
-            break;
         }
+        System.out.println("");
+        int operation = scan.nextInt();
 
+        System.out.println("enter a no. ");
+        int num1 = scan.nextInt();
+
+        System.out.println("enter a no. ");
+        int num2 = scan.nextInt();
+
+        
+    
+
+        if (operation == 1){
+            System.out.print("Answer ");
+            System.out.println(num1 + num2);
+        }
+        else if (operation == 2){
+            System.out.print("Answer ");
+            System.out.println(num1-num2);
+
+        }
+        else if (operation == 3){
+            System.out.print("Answer ");
+            System.out.println(num1*num2);
+
+        }
+      
+        System.out.println("Repeat the operation y or n");
+        repeat= scan.next();
+
+       }
+
+       while (repeat.equalsIgnoreCase("y"));
+       
     }
+
 }
+
