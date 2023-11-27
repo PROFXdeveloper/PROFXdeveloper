@@ -1,7 +1,7 @@
 def main():
  name = input("Name: ")
- a,b,c,d = input("Type a 4 Subjects: ").split(";")
- e,f,g,h =(input("Type your Average:  ")).split(",")
+ a,b,c,d = input("Type a 4 Subjects: ").split(" ")
+ e,f,g,h =(input("Type your Average:  ")).split(" ")
 
  
  print("Name: "+name)
@@ -29,7 +29,7 @@ def main():
  ac=float(input("Subject#2: "))
  ad=float(input("Subject#3: "))
  ae=float(input("Subject#4: "))
- ave=((float(ab)+float(ac)+float(ad)+float(ae)) / 4 )
+ ave=((float(ab)+float(ac)+float(ad)+float(ae)) / (4 ))
  print()
  print("Name: "+name)
  print("Average: ",ave)
