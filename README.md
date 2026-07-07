@@ -22,57 +22,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Terminal Prompt Style Separator -->
-```
-┌─[root@profx]─[~]
-└──╼ $ whoami && cat /etc/profile.conf
-```
-
-</div>
-
----
-
-## `[ IDENTIFICATION ]`
-
-```yaml
-alias       : PROFX
-role        : Penetration Tester | Red Team Operator | Exploit Developer
-focus       : Offensive Security | Malware Crafting | Network Intrusion
-clearance   : ROOT
-status      : [ ACTIVE ]
-location    : [ CLASSIFIED ]
-objective   : Break. Analyze. Exploit. Repeat.
-```
-
----
-
-## `[ INTEL STREAM ]`
-
-```text
-root@profx:~# ./run_intel_stream.sh
-[+] Connecting to GitHub Data Matrix...
-[+] Auth: SUCCESS | Clearance: ROOT
-
-[ SYSTEM METRICS & ACTIVITY ]
-  Total Commits ..... 8,492+
-  PRs Opened    ..... 1,337
-  Issues        ..... 404
-  Contributions ..... 5,120
-  Current Streak..... 66 Days
-
-[ LANGUAGE PAYLOAD MATRIX ]
-  Python        [██████████████████░░░] 88%
-  C / C++       [████████████░░░░░░░░░] 64%
-  Bash          [█████████░░░░░░░░░░░░] 48%
-  PHP           [███████░░░░░░░░░░░░░░] 36%
-
-root@profx:~# █
-```
-
----
-
 ## `[ TECH STACK — WEAPONS LOADOUT ]`
 
 <div align="center">
