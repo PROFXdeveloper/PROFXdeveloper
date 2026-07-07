@@ -228,35 +228,7 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 </div>
 
----
 
-## `[ ACTIVITY GRAPH ]`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROFXdeveloper&bg_color=0d1117&color=00FF41&line=FF2222&point=00FF41&area=true&area_color=FF222233&hide_border=false&border_color=00FF41&title_color=FF2222&custom_title=PROFX+%3A%2F%2F+INTRUSION+ACTIVITY+LOG" alt="Activity Graph" />
-
-</div>
-
----
-
-## `[ TROPHY CABINET ]`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PROFXdeveloper&theme=matrix&no-frame=false&no-bg=true&margin-w=6&title_color=FF2222&row=2&column=4" alt="Trophies" />
-
-</div>
-
----
-
-## `[ SNAKE PROTOCOL — COMMIT FEED ]`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PROFXdeveloper/PROFXdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
 
 ---
 
