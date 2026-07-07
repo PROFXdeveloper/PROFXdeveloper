@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=50&duration=3000&pause=1000&color=FF2222&center=true&vCenter=true&multiline=false&width=700&height=100&lines=PROFX" alt="PROFX Header" />
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=18&duration=2500&pause=1000&color=FF2222&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Penetration+Tester+%7C+Red+Team+Operator;Exploit+Developer+%7C+Malware+Analyst;Network+Intrusion+Specialist;Web+Application+Security+Expert;[ +root%40profx+~+]%23+_" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=18&duration=2500&pause=1000&color=FF2222&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Penetration+Tester+%7C+Red+Team+Operator;Exploit+Developer+%7C+Malware+Analyst;Network+Intrusion+Specialist;Web+Application+Security+Expert;%5B%20+root%40profx+~+%5D%23+_" alt="Roles" />
 
 <br/>
 
@@ -52,7 +52,7 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PROFXdeveloper&show_icons=true&theme=chartreuse-dark&title_color=00FF41&icon_color=FF2222&text_color=c9d1d9&bg_color=0d1117&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true&custom_title=PROFX+://+SYSTEM+METRICS" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PROFXdeveloper&show_icons=true&theme=chartreuse-dark&title_color=00FF41&icon_color=FF2222&text_color=c9d1d9&bg_color=0d1117&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true&custom_title=PROFX+%3A%2F%2F+SYSTEM+METRICS" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -104,14 +104,14 @@ objective   : Break. Analyze. Exploit. Repeat.
 <div align="center">
 
 <!-- Section Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=15&duration=3000&pause=2000&color=00FF41&center=true&width=700&height=40&lines=[ +LOADING+OFFENSIVE+TOOLKIT+...+];[ +ALL+SYSTEMS+ARMED+%26+OPERATIONAL+]" alt="Arsenal Loading" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=15&duration=3000&pause=2000&color=00FF41&center=true&width=700&height=40&lines=%5B%20+LOADING+OFFENSIVE+TOOLKIT+...+%5D;%5B%20+ALL+SYSTEMS+ARMED+%26+OPERATIONAL+%5D" alt="Arsenal Loading" />
 
 <br/><br/>
 
 <!-- Operating Systems -->
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d1117&color=557C94)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-00AAFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=00AAFF)
-![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d1117&color=1793D1)
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d1117&color=557C94" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Parrot_OS-00AAFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=00AAFF" alt="Parrot OS" />
+<img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d1117&color=1793D1" alt="BlackArch" />
 
 <br/><br/>
 
@@ -120,11 +120,11 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <br/>
 
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF2222?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117&color=FF2222)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117&color=2596CD)
-![Sliver](https://img.shields.io/badge/Sliver_C2-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41)
-![Empire](https://img.shields.io/badge/PowerShell_Empire-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d1117&color=5391FE)
-![Havoc](https://img.shields.io/badge/Havoc_C2-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=FF4500)
+<img src="https://img.shields.io/badge/Cobalt_Strike-FF2222?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117&color=FF2222" alt="Cobalt Strike" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117&color=2596CD" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Sliver_C2-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41" alt="Sliver" />
+<img src="https://img.shields.io/badge/PowerShell_Empire-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d1117&color=5391FE" alt="Empire" />
+<img src="https://img.shields.io/badge/Havoc_C2-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=FF4500" alt="Havoc" />
 
 <br/><br/>
 
@@ -133,12 +133,12 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <br/>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117&color=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white&labelColor=0d1117&color=00C176)
-![Tcpdump](https://img.shields.io/badge/Tcpdump-FF2222?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF2222)
-![Ettercap](https://img.shields.io/badge/Ettercap-4B0082?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=4B0082)
-![Bettercap](https://img.shields.io/badge/Bettercap-FF6600?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF6600)
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117&color=1679A7" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41" alt="Nmap" />
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white&labelColor=0d1117&color=00C176" alt="Nessus" />
+<img src="https://img.shields.io/badge/Tcpdump-FF2222?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF2222" alt="Tcpdump" />
+<img src="https://img.shields.io/badge/Ettercap-4B0082?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=4B0082" alt="Ettercap" />
+<img src="https://img.shields.io/badge/Bettercap-FF6600?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF6600" alt="Bettercap" />
 
 <br/><br/>
 
@@ -147,12 +147,12 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <br/>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0d1117&color=FF6633)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117&color=CC0000)
-![FFUF](https://img.shields.io/badge/FFUF-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41)
-![Nikto](https://img.shields.io/badge/Nikto-FF2222?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF2222)
-![Dirb](https://img.shields.io/badge/Dirb/Gobuster-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FFA500?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117&color=FFA500)
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0d1117&color=FF6633" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117&color=CC0000" alt="SQLMap" />
+<img src="https://img.shields.io/badge/FFUF-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41" alt="FFUF" />
+<img src="https://img.shields.io/badge/Nikto-FF2222?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF2222" alt="Nikto" />
+<img src="https://img.shields.io/badge/Dirb/Gobuster-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41" alt="Dirb" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-FFA500?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117&color=FFA500" alt="OWASP ZAP" />
 
 <br/><br/>
 
@@ -161,11 +161,11 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <br/>
 
-![Hashcat](https://img.shields.io/badge/Hashcat-FF2222?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=FF2222)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-8B0000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117&color=8B0000)
-![Hydra](https://img.shields.io/badge/THC_Hydra-CC0000?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=CC0000)
-![Bloodhound](https://img.shields.io/badge/BloodHound-FF2222?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=0d1117&color=FF2222)
+<img src="https://img.shields.io/badge/Hashcat-FF2222?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=FF2222" alt="Hashcat" />
+<img src="https://img.shields.io/badge/John_The_Ripper-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41" alt="John the Ripper" />
+<img src="https://img.shields.io/badge/Mimikatz-8B0000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117&color=8B0000" alt="Mimikatz" />
+<img src="https://img.shields.io/badge/THC_Hydra-CC0000?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=CC0000" alt="Hydra" />
+<img src="https://img.shields.io/badge/BloodHound-FF2222?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=0d1117&color=FF2222" alt="Bloodhound" />
 
 <br/><br/>
 
@@ -174,11 +174,11 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <br/>
 
-![Ghidra](https://img.shields.io/badge/Ghidra-FF2222?style=for-the-badge&logo=nsa&logoColor=white&labelColor=0d1117&color=FF2222)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4040FF?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=4040FF)
-![x64dbg](https://img.shields.io/badge/x64dbg-00FF41?style=for-the-badge&logo=windows&logoColor=black&labelColor=0d1117&color=00FF41)
-![Radare2](https://img.shields.io/badge/Radare2-FF6600?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=FF6600)
-![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=8B0000)
+<img src="https://img.shields.io/badge/Ghidra-FF2222?style=for-the-badge&logo=nsa&logoColor=white&labelColor=0d1117&color=FF2222" alt="Ghidra" />
+<img src="https://img.shields.io/badge/IDA_Pro-4040FF?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=4040FF" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/x64dbg-00FF41?style=for-the-badge&logo=windows&logoColor=black&labelColor=0d1117&color=00FF41" alt="x64dbg" />
+<img src="https://img.shields.io/badge/Radare2-FF6600?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117&color=FF6600" alt="Radare2" />
+<img src="https://img.shields.io/badge/Volatility-8B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=8B0000" alt="Volatility" />
 
 <br/><br/>
 
@@ -187,9 +187,9 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <br/>
 
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41)
-![Kismet](https://img.shields.io/badge/Kismet-FF2222?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF2222)
-![Wifite](https://img.shields.io/badge/Wifite-CC0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=CC0000)
+<img src="https://img.shields.io/badge/Aircrack--ng-00FF41?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0d1117&color=00FF41" alt="Aircrack-ng" />
+<img src="https://img.shields.io/badge/Kismet-FF2222?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=FF2222" alt="Kismet" />
+<img src="https://img.shields.io/badge/Wifite-CC0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=CC0000" alt="Wifite" />
 
 </div>
 
@@ -221,10 +221,10 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF2222?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=0d1117)
-![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-00FF41?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0d1117)
-![eJPT](https://img.shields.io/badge/eJPT-Junior_Pen_Tester-FF6600?style=for-the-badge&logo=ine&logoColor=white&labelColor=0d1117)
-![CompTIA](https://img.shields.io/badge/CompTIA-Security+-CC0000?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0d1117)
+<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF2222?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=0d1117" alt="CEH" />
+<img src="https://img.shields.io/badge/OSCP-Offensive_Security-00FF41?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0d1117" alt="OSCP" />
+<img src="https://img.shields.io/badge/eJPT-Junior_Pen_Tester-FF6600?style=for-the-badge&logo=ine&logoColor=white&labelColor=0d1117" alt="eJPT" />
+<img src="https://img.shields.io/badge/CompTIA-Security+-CC0000?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0d1117" alt="CompTIA" />
 
 </div>
 
@@ -234,7 +234,7 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROFXdeveloper&bg_color=0d1117&color=00FF41&line=FF2222&point=00FF41&area=true&area_color=FF222233&hide_border=false&border_color=00FF41&title_color=FF2222&custom_title=PROFX+://+INTRUSION+ACTIVITY+LOG" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PROFXdeveloper&bg_color=0d1117&color=00FF41&line=FF2222&point=00FF41&area=true&area_color=FF222233&hide_border=false&border_color=00FF41&title_color=FF2222&custom_title=PROFX+%3A%2F%2F+INTRUSION+ACTIVITY+LOG" alt="Activity Graph" />
 
 </div>
 
@@ -264,13 +264,13 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&duration=3000&pause=1500&color=00FF41&center=true&width=700&height=35&lines=[ +ENCRYPTED+CHANNEL+ESTABLISHED+];[ +AUTHENTICATE+BEFORE+TRANSMITTING+]" alt="Comms" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&duration=3000&pause=1500&color=00FF41&center=true&width=700&height=35&lines=%5B%20+ENCRYPTED+CHANNEL+ESTABLISHED+%5D;%5B%20+AUTHENTICATE+BEFORE+TRANSMITTING+%5D" alt="Comms" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PROFXdeveloper-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PROFXdeveloper)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-PROFX-FF2222?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-PROFX-00FF41?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://hackthebox.com)
+[<img src="https://img.shields.io/badge/GitHub-PROFXdeveloper-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />](https://github.com/PROFXdeveloper)
+[<img src="https://img.shields.io/badge/TryHackMe-PROFX-FF2222?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe" />](https://tryhackme.com)
+[<img src="https://img.shields.io/badge/HackTheBox-PROFX-00FF41?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" alt="HackTheBox" />](https://hackthebox.com)
 
 </div>
 
