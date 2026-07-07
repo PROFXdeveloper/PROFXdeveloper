@@ -50,11 +50,26 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 ## `[ INTEL STREAM ]`
 
-<div align="center">
+```text
+root@profx:~# ./run_intel_stream.sh
+[+] Connecting to GitHub Data Matrix...
+[+] Auth: SUCCESS | Clearance: ROOT
 
-<img src="./terminal-stats.svg" alt="Terminal Stats" />
+[ SYSTEM METRICS & ACTIVITY ]
+  Total Commits ..... 8,492+
+  PRs Opened    ..... 1,337
+  Issues        ..... 404
+  Contributions ..... 5,120
+  Current Streak..... 66 Days
 
-</div>
+[ LANGUAGE PAYLOAD MATRIX ]
+  Python        [██████████████████░░░] 88%
+  C / C++       [████████████░░░░░░░░░] 64%
+  Bash          [█████████░░░░░░░░░░░░] 48%
+  PHP           [███████░░░░░░░░░░░░░░] 36%
+
+root@profx:~# █
+```
 
 ---
 
@@ -184,42 +199,6 @@ objective   : Break. Analyze. Exploit. Repeat.
 <img src="https://img.shields.io/badge/Wifite-CC0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117&color=CC0000" alt="Wifite" />
 
 </div>
-
----
-
-## `[ OPERATIONAL DOMAINS ]`
-
-<div align="center">
-
-```
- [ ACTIVE THREAT OPERATIONS ]
- ─────────────────────────────────────────────────────────────
-  [+] Web Application Penetration Testing         ████████████ 95%
-  [+] Network Infrastructure Attacks              ███████████░ 90%
-  [+] Active Directory / Domain Exploitation      ██████████░░ 85%
-  [+] Malware Development & AV Evasion            ████████░░░░ 78%
-  [+] Reverse Engineering & Binary Analysis       ███████░░░░░ 72%
-  [+] Wireless Network Exploitation               █████████░░░ 88%
-  [+] Social Engineering Operations              ████████████ 92%
-  [+] OSINT & Reconnaissance                      ████████████ 97%
- ─────────────────────────────────────────────────────────────
-```
-
-</div>
-
----
-
-## `[ CERTIFICATIONS & CLEARANCES ]`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF2222?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=0d1117" alt="CEH" />
-<img src="https://img.shields.io/badge/OSCP-Offensive_Security-00FF41?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0d1117" alt="OSCP" />
-<img src="https://img.shields.io/badge/eJPT-Junior_Pen_Tester-FF6600?style=for-the-badge&logo=ine&logoColor=white&labelColor=0d1117" alt="eJPT" />
-<img src="https://img.shields.io/badge/CompTIA-Security+-CC0000?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0d1117" alt="CompTIA" />
-
-</div>
-
 
 
 ---
