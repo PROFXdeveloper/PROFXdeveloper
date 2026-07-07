@@ -52,15 +52,7 @@ objective   : Break. Analyze. Exploit. Repeat.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PROFXdeveloper&show_icons=true&theme=chartreuse-dark&title_color=00FF41&icon_color=FF2222&text_color=c9d1d9&bg_color=0d1117&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true&custom_title=PROFX+%3A%2F%2F+SYSTEM+METRICS" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PROFXdeveloper&theme=chartreuse-dark&background=0d1117&border=00FF41&stroke=FF2222&ring=00FF41&fire=FF2222&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=FF2222&sideLabels=FF2222&dates=c9d1d9" alt="Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROFXdeveloper&layout=compact&theme=chartreuse-dark&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117&border_color=00FF41&custom_title=LANGUAGE+PAYLOAD+MATRIX&langs_count=8" alt="Top Languages" />
+<img src="./terminal-stats.svg" alt="Terminal Stats" />
 
 </div>
 
