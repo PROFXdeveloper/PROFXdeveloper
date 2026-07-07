@@ -5,6 +5,11 @@
 
 <div align="center">
 
+<!-- Profile Picture -->
+<img src="./profile.jpeg" width="800" alt="Profile Picture" />
+
+<br/>
+
 <!-- Typing Animation - Hacker Red -->
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=50&duration=3000&pause=1000&color=FF2222&center=true&vCenter=true&multiline=false&width=700&height=100&lines=PROFX" alt="PROFX Header" />
 
