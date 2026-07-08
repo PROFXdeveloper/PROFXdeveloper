@@ -178,8 +178,8 @@
 ```
  ╔════════════════════════════════════════════════════════════╗
  ║                                                            ║
- ║   "The quieter you become, the more you are able to hear"  ║
- ║                                          — Kali Linux      ║
+ ║ I don't steal secrets. I inherit them from the careless.   ║
+ ║                                          — PROFX           ║
  ║                                                            ║
  ╚════════════════════════════════════════════════════════════╝
 ```
