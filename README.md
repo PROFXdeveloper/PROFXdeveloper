@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,php,java,bash,c,cpp,js,go&theme=dark&perline=8" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,php,java,js&theme=dark&perline=8" alt="Programming Languages" />
 
 <br/><br/>
 
@@ -45,7 +45,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,mysql,mongodb,postgresql,redis&theme=dark&perline=8" alt="Web & Backend" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark&perline=8" alt="Web & Backend" />
 
 <br/><br/>
 
